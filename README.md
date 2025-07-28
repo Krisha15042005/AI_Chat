@@ -44,5 +44,5 @@ python app.py
 - Chat using Cohere
 - Store & retrieve session history
 - Knowledge base fallback
-- Web search fallback (DuckDuckGo)
+- Web search fallback 
 - Export conversation to PDF
