@@ -1,0 +1,4 @@
+flask
+cohere
+pymongo
+reportlab
